@@ -5,3 +5,4 @@
 ### 1.Regex_find_anything_from_text
 ### 2.nltk_vs_spacy
 ### 3.Tokenization in Spacy
+### 4.Pipeline_in_Spacy
