@@ -1,4 +1,4 @@
 git init
 git add .
-git commit -m "Delete temp file"
+git commit -m "Upload file"
 git push
