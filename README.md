@@ -6,3 +6,4 @@
 ### 2.nltk_vs_spacy
 ### 3.Tokenization in Spacy
 ### 4.Pipeline_in_Spacy
+### 5.Stemming and Lemmatization
