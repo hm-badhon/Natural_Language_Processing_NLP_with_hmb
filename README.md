@@ -10,7 +10,3 @@
 ### 6.Part of speech POS Tagging
 ### 7.Named Entity Recognition (NER)
 
-<ol>
- <li>heloo</li>
-- ahdh
-</ol>
