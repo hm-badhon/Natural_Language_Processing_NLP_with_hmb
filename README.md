@@ -9,6 +9,7 @@
 ### 5.Stemming and Lemmatization
 ### 6.Part of speech POS Tagging
 ### 7.Named Entity Recognition (NER)
+### 8.Bag_of_Words
 
 
 
