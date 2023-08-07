@@ -7,3 +7,5 @@
 ### 3.Tokenization in Spacy
 ### 4.Pipeline_in_Spacy
 ### 5.Stemming and Lemmatization
+### 6.Part_of_speech_POS_Tagging
+### 7.Named_Entity_Recognition_(NER)
