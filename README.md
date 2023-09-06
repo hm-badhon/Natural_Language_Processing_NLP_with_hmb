@@ -10,14 +10,10 @@
 ### 6.Part of speech POS Tagging
 ### 7.Named Entity Recognition (NER)
 ### 8.Bag_of_Words
-
-
-
-
-
-
-
-
+### 9.Stop_words
+### 10.Bag_of_n_words
+### 11.tf_idf
+### 12.Word_embeddings
 
 
 
