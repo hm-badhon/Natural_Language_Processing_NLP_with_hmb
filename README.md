@@ -14,6 +14,7 @@
 ### 10.Bag_of_n_words
 ### 11.tf_idf
 ### 12.Word_embeddings
+### 13.text_classification_using_spacy
 
 
 
