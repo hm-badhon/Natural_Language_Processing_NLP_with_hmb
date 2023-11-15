@@ -7,9 +7,9 @@ This repository contains a collection of Jupyter Notebooks and code files relate
 ## Author
 
 - **H.M. Mehedi Hasan (Badhon)**
-  - [GitHub Profile](#)
-  - [LinkedIn Profile](#)
-  - [Email](mailto:your.email@example.com)
+  - [GitHub Profile](https://github.com/hm-badhon)
+  - [LinkedIn Profile](https://bd.linkedin.com/in/h-m-mehedi-hasan-575563159)
+  - [Email](mailto:h.m.badhoneee@gmail.com)
   - Associate Robotics Engineer, NSL
 
 ## List of Contents
