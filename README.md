@@ -4,13 +4,6 @@
 
 This repository contains a collection of Jupyter Notebooks and code files related to various Natural Language Processing (NLP) techniques. Each module focuses on different aspects of text processing and analysis.
 
-## Author
-
-- **H.M. Mehedi Hasan (Badhon)**
-  - [GitHub Profile](https://github.com/hm-badhon)
-  - [LinkedIn Profile](https://bd.linkedin.com/in/h-m-mehedi-hasan-575563159)
-  - [Email](mailto:h.m.badhoneee@gmail.com)
-  - Associate Robotics Engineer, NSL
 
 ## List of Contents
 
@@ -99,3 +92,12 @@ You can explore each module independently to understand and apply different NLP 
 Feel free to reach out if you have any questions or suggestions for improvement.
 
 Happy coding!
+
+
+## Author
+
+- **H.M. Mehedi Hasan (Badhon)**
+  - [GitHub Profile](https://github.com/hm-badhon)
+  - [LinkedIn Profile](https://bd.linkedin.com/in/h-m-mehedi-hasan-575563159)
+  - [Email](mailto:h.m.badhoneee@gmail.com)
+  - Associate Robotics Engineer, NSL
