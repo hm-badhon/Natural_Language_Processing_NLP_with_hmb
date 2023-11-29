@@ -13,55 +13,52 @@ This repository serves as a comprehensive guide and resource for understanding a
 Here's a detailed list of modules available in this repository:
 
 ### 1. Regex_find_anything_from_text
-Focuses on using regular expressions for text extraction. It covers the fundamentals of regex and their application in extracting specific patterns or information from text data.
+Focuses on using regular expressions for text extraction. It covers the fundamentals of regex and their application in extracting specific patterns or information from text data. (Uploaded 4 months ago)
 
-### 2. Bag_of_n_words
-This module demonstrates the bag-of-words technique, a fundamental method in NLP for representing text data as numerical feature vectors.
+### 2. nltk_vs_spacy
+Compares and contrasts NLTK and Spacy libraries for text processing, highlighting their strengths and differences. (Added 4 months ago)
 
-### 3. tf_idf
-Implements TF-IDF (Term Frequency-Inverse Document Frequency), a statistical measure used to evaluate the importance of words in a document relative to a collection.
+### 3. Tokenization in Spacy
+Demonstrates tokenization using Spacy, a critical step in text processing where text is segmented into individual units such as words or sentences. (Added 4 months ago)
 
-### 4. Word_embeddings
-Explores various word embedding techniques like Word2Vec or GloVe, which transform words into numerical vectors to capture semantic meanings.
+### 4. Stemming and Lemmatization
+Explores stemming and lemmatization techniques, which are used to normalize words to their base or root forms. (Uploaded 3 months ago)
 
-### 5. text_classification_using_spacy
-Utilizes the Spacy library for text classification tasks, demonstrating how to build models to categorize text data into predefined classes or categories.
+### 5. Part_of_speech_POS_Tagging
+Implements part-of-speech tagging, a process of marking words in a text according to their parts of speech. (Uploaded 3 months ago)
 
-### 6. word_vectors_gensim
-Implements word vectors using the Gensim library, allowing the exploration and understanding of vector representations of words.
+### 6. Named_Entity_Recognition_(NER)
+Demonstrates Named Entity Recognition, a technique to identify and classify named entities in text into predefined categories. (Uploaded 3 months ago)
 
-### 7. News_classification_using_gensim_word_vector
-Classifies news articles using Gensim word vectors, showcasing how word vectors can be employed for text classification in real-world scenarios.
+### 7. Bag_of_Words.ipynb
+A Jupyter Notebook focusing specifically on the bag-of-words technique, providing detailed explanations and examples. (Uploaded 3 months ago)
 
-### 8. fast_test
-Explores the FastText library, a tool for efficient learning of word representations and text classification.
+### 8. Stop_words
+Explores and handles stop words in text data, which are commonly occurring words often removed in NLP tasks. (Uploaded 3 months ago)
 
-### 9. Text_classification_using_fasttext
-Implements text classification using FastText, showcasing its capabilities in classifying text data.
+### 9. Pipeline_in_Spacy
+Uses Spacy's pipeline architecture for text processing tasks, showcasing its efficiency in handling multiple NLP tasks. (New file added 3 months ago)
 
-### 10. nltk_vs_spacy
-Compares and contrasts NLTK and Spacy libraries for text processing, highlighting their strengths and differences.
+### 10. tf_idf
+Implements TF-IDF (Term Frequency-Inverse Document Frequency), a statistical measure used to evaluate word importance in a document. (Uploaded 3 months ago)
 
-### 11. Tokenization_in_Spacy
-Demonstrates tokenization using Spacy, a critical step in text processing where text is segmented into individual units such as words or sentences.
+### 11. Word_embeddings
+Explores various word embedding techniques like Word2Vec or GloVe, transforming words into numerical vectors. (Uploaded 2 months ago)
 
-### 12. Pipeline_in_Spacy
-Uses Spacy's pipeline architecture for text processing tasks, showcasing its efficiency in handling multiple NLP tasks in a sequence.
+### 12. text_classification_using_spacy
+Utilizes the Spacy library for text classification tasks. (Uploaded 2 months ago)
 
-### 13. Stemming_and_Lemmatization
-Explores stemming and lemmatization techniques, which are used to normalize words to their base or root forms.
+### 13. word_vectors_gensim
+Implements word vectors using the Gensim library. (Uploaded 2 months ago)
 
-### 14. Part_of_speech_POS_Tagging
-Implements part-of-speech tagging, a process of marking words in a text according to their parts of speech.
+### 14. News_classification_using_gensim_word_vector
+Classifies news articles using Gensim word vectors, showcasing their application in real-world scenarios. (Uploaded 2 months ago)
 
-### 15. Named_Entity_Recognition_(NER)
-Demonstrates Named Entity Recognition, a technique to identify and classify named entities in text into predefined categories such as names of persons, organizations, locations, etc.
+### 15. fast_test
+Explores the FastText library for efficient learning of word representations and text classification. (Uploaded last month)
 
-### 16. Bag_of_Words.ipynb
-A Jupyter Notebook focusing specifically on the bag-of-words technique, providing detailed explanations and examples.
-
-### 17. Stop_words
-Explores and handles stop words in text data, which are commonly occurring words often removed in NLP tasks due to their minimal contribution to the overall meaning.
+### 16. Text_classification_using_fasttext
+Implements text classification using FastText. (Uploaded last month)
 
 ## Additional Files
 
@@ -71,7 +68,7 @@ Explores and handles stop words in text data, which are commonly occurring words
 ## Usage
 
 Feel free to explore each module independently to understand and apply different NLP techniques. The files are organized based on their specific focus, making it easy to navigate through the repository.
-el free to explore each module independently to understand and apply different NLP techniques. The files are organized based on their specific focus, making it easy to navigate through the repository.
+
 
 ## Author
 
@@ -83,6 +80,7 @@ el free to explore each module independently to understand and apply different N
   - [LinkedIn Profile](https://bd.linkedin.com/in/h-m-mehedi-hasan-575563159)
   - [Email](mailto:h.m.badhoneee@gmail.com)
   - Associate Robotics Engineer, NSL
+  - 
 ## Contributing
 
 Contributions and suggestions are welcome! If you have any ideas to enhance the repository or want to report issues, please feel free to open an issue or submit a pull request.
