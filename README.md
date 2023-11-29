@@ -1,6 +1,6 @@
 # Natural Language Processing (NLP) Repository
 
-Welcome to the Natural Language Processing (NLP) Repository by [Author's Name].
+Welcome to the Natural Language Processing (NLP) Repository by **H.M. Mehedi Hasan (Badhon)**.
 
 This repository contains a collection of Jupyter Notebooks and code files dedicated to various Natural Language Processing techniques. Each module focuses on different aspects of text processing and analysis.
 
